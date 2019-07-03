@@ -13,12 +13,12 @@ I went requirement by requirement to ensure that there was a test for each one, 
 **Tracability Matrix**
 ---
 ```
-: displayWelcomeTest, displayInfoTest
-: navigationHomepageTest, navigationFibonacciTest, navigationHelloTest, navigationCathedralTest, navigationFactorialTest
-: factorialBaseCaseTest, factorialLowEdgeCaseTest, factorialHighEdgeCaseTest
-: fibonacciBaseCaseTest, fibonacciLowEdgeCaseTest, fibonacciHighEdgeCaseTest
-: factorialInvalidLowEdgeCaseTest, factorialInvalidHighEdgeCaseTest, factorialInvalidLowTest, factorialInvalidHighTest, fibonacciInvalidLowEdgeCaseTest, fibonacciInvalidHighEdgeCaseTest, fibonacciInvalidLowTest, fibonacciInvalidHighTest
-: displayDefaultHelloTest
-: displayTrailingValueJazzyTest, displayTrailingValueSingleLetterTest, displayTrailingValueNumberTest
-: displayOrderedListTest, displayImgNumTest, displayImgNamesTest
+1: displayWelcomeTest, displayInfoTest
+2: navigationHomepageTest, navigationFibonacciTest, navigationHelloTest, navigationCathedralTest, navigationFactorialTest
+3: factorialBaseCaseTest, factorialLowEdgeCaseTest, factorialHighEdgeCaseTest
+4: fibonacciBaseCaseTest, fibonacciLowEdgeCaseTest, fibonacciHighEdgeCaseTest
+5: factorialInvalidLowEdgeCaseTest, factorialInvalidHighEdgeCaseTest, factorialInvalidLowTest, factorialInvalidHighTest, fibonacciInvalidLowEdgeCaseTest, fibonacciInvalidHighEdgeCaseTest, fibonacciInvalidLowTest, fibonacciInvalidHighTest
+6: displayDefaultHelloTest
+7: displayTrailingValueJazzyTest, displayTrailingValueSingleLetterTest, displayTrailingValueNumberTest
+8: displayOrderedListTest, displayImgNumTest, displayImgNamesTest
 ```
